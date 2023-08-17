@@ -1,0 +1,28 @@
+.container {
+    display: grid;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 60px;
+    font-weight: 600;
+    font-size: 16px;
+    border-bottom-width: 4px ;
+}
+.input__bar {
+    display:flex;
+    width: 200px;
+    height: 25px;
+    opacity: 0.3;
+}
+.btn__create {
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px;
+    background-color: #f85555;
+    color: white;
+    font-size: 15px;
+    border-radius: 12px;
+    filter: grayscale(0.3);
+}
+.btn__create:hover {
+    filter: grayscale(0);
+}

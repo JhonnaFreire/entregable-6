@@ -1,0 +1,13 @@
+.item__buy-container {
+    display: flex;
+    grid-template-columns: auto;
+    justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+.img__purch {
+    max-height: 500px;
+  max-width: 350px;
+  border: 0.5em solid #ccc;
+}

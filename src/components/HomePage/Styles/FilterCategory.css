@@ -1,0 +1,16 @@
+.category__container {
+  margin-bottom: 50px;
+}
+.category__title {
+  margin-top: 3px;
+  margin-bottom: 30px;
+}
+.categories__list {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 3px;
+}
+.categories {
+  cursor: pointer;
+}
